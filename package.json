@@ -1,0 +1,54 @@
+{
+  "name": "thoughtworks",
+  "version": "1.0.0",
+  "description": "ThoughtWorks UI Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranveerkumar/thoughtworks.git"
+  },
+  "keywords": [
+    "Flight",
+    "Search",
+    "Travel"
+  ],
+  "author": "Ranveer Kumar",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "gulp-sass": "^3.1.0",
+    "scss-compile": "^0.1.7"
+  },
+  "devDependencies": {
+    "del": "~2.2.2",
+    "gulp": "~3.9.1",
+    "gulp-autoprefixer": "~3.1.1",
+    "gulp-concat": "~2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-cssmin": "~0.1.7",
+    "gulp-jshint": "~2.0.2",
+    "gulp-less": "~3.1.0",
+    "gulp-lesshint": "~2.0.0",
+    "gulp-live-server": "0.0.30",
+    "gulp-livereload": "~3.8.1",
+    "gulp-load-plugins": "~1.3.0",
+    "gulp-minify": "0.0.14",
+    "gulp-postcss": "~6.2.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "~2.2.0",
+    "gulp-uglify": "~2.0.0",
+    "gulp-watch": "~4.3.10",
+    "jquery": "^3.2.1",
+    "jshint": "~2.9.4",
+    "jshint-stylish": "~2.2.1",
+    "path": "~0.12.7",
+    "run-sequence": "~1.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ranveerkumar/thoughtworks/issues"
+  },
+  "homepage": "https://github.com/ranveerkumar/thoughtworks#readme"
+}

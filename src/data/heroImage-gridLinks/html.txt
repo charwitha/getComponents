@@ -1,0 +1,45 @@
+<div class="heroImage-gridLinks">
+	<div class="main-strip">
+		<div class="main-image">
+			<img src="images/wolf.jpg" alt="hd-image">
+			<div class="strip-links">
+				<h4><a href="#">Link here</h4><i class="fa fa-chevron-right"></i></a>
+			</div>
+		</div>
+		<div class="info">
+			<div class="text-section">
+				<h1>Type Your Heading Here</h1>
+				<p class="hide">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="image-strip col-xl-12">
+		<div class="row">
+			<div class="strip-img col-lg-3 col-sm-6">
+				<img src="images/book.jpg" alt="hd-image">
+				<div class="strip-links">
+					<h4><a href="#">Link here</h4><i class="fa fa-chevron-right"></i></a>
+				</div>
+			</div>
+			<div class="strip-img col-lg-3 col-sm-6">
+				<img src="images/bridge.jpg" alt="hd-image">
+				<div class="strip-links">
+					<h4><a href="#">Link here</h4><i class="fa fa-chevron-right"></i></a>
+				</div>
+			</div>
+			<div class="strip-img col-lg-3 col-sm-6">
+				<img src="images/justiceLeague.jpg" alt="hd-image">
+				<div class="strip-links">
+					<h4><a href="#">Link here</h4><i class="fa fa-chevron-right"></i></a>
+				</div>
+			</div>
+			<div class="strip-img col-lg-3 col-sm-6">
+				<img src="images/lotuses.jpg" alt="hd-image">
+				<div class="strip-links">
+					<h4><a href="#">Link here</h4><i class="fa fa-chevron-right"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

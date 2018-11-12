@@ -1,0 +1,36 @@
+<div class="gridList-selectBox col-lg-8 col-md-12 col-sm-12">
+	<form>
+		<input type="checkbox" id="selected1">
+		<label for="selected1" class="select-box">
+			<img src="images/beach.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected2">
+		<label for="selected2" class="select-box">
+			<img src="images/balloons.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected3">
+		<label for="selected3" class="select-box">
+			<img src="images/wheel.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected4">
+		<label for="selected4" class="select-box">
+			<img src="images/trees.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected5">
+		<label for="selected5" class="select-box">
+			<img src="images/night.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected6">
+		<label for="selected6" class="select-box">
+			<img src="images/leaf.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected7">
+		<label for="selected7" class="select-box">
+			<img src="images/fishes.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="selected8">
+		<label for="selected8" class="select-box">
+			<img src="images/eTower.jpg" alt="hd-image">
+		</label>
+	</form>
+</div>

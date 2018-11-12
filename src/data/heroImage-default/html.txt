@@ -1,0 +1,13 @@
+<div class="heroImage-default">
+	<div class="bckImg">
+		<img src="images/book.jpg" alt="hd-image">
+		<div class="text-section">
+			<h1>Type Your Heading Here</h1>
+			<p class="head-caption">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.
+			</p>
+			<a class="btn" href="#">Learn More</a>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,15 @@
+<div class="login-signUp">
+	<form class="form-wrapper">
+		<input type="text" class="inputs" placeholder="First Name">
+		<input type="text" class="inputs" placeholder="Last Name">
+		<input type="email" class="inputs" placeholder="Username">
+		<input type="password" class="inputs" placeholder="Password">
+		<input type="password" class="inputs" placeholder="Confirm Password">
+		<input type="submit" class="btn" value="Register">
+		<p class="separator"></p>
+		<div class="form-footer">
+			<a href="#" class="footer-link">forgot password</a>
+			<a href="#" class="footer-link">sign in</a>
+		</div>
+	</form>
+</div>

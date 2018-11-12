@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+.heroImage-default {
+	width: 100%;
+	height: 500px;
+}
+
+.bckImg {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.bckImg img {
+	width: 100%;
+	height: 100%;
+	filter: blur(2px);
+}
+
+.text-section {
+	width: 60%;
+	font-family: 'PT Sans', sans-serif;
+	color: #fff;
+	position: absolute;
+	top: 80px;
+	left: 160px;
+}
+
+.text-section h1 {
+	margin: 0;
+	padding: 20px 0;
+	font-size: 42px;
+	font-weight: bold;
+	z-index: 1;
+}
+
+.text-section p {
+	margin: 0;
+	padding: 10px 0;
+	font-size: 28px;
+}
+
+.text-section .btn {
+	width: 200px;
+	height: 50px;
+	background-color: #E12399;
+	border: none;
+	border-radius: 5px;
+	margin: 10px 0;
+	padding: 10px 0;
+	color: #fff;
+	font-size: 20px;
+}
+
+.text-section .btn:hover {
+	color: #DDA3C7;
+}

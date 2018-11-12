@@ -1,0 +1,30 @@
+.gridList-unEven2 {
+	height: 500px;
+	padding: 3px;
+	margin: 50px 0;
+	overflow-y: scroll;
+	text-align: center;
+	font-family: sans-serif;
+	position: relative;
+	background-color: #F0F0F0;
+}
+
+.gridList-unEven2 img {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.gridList-unEven2 ul {
+	padding: 0;
+}
+
+.gridList-unEven2 li {
+	width: 300px;
+	height: 200px;
+	padding: 0;
+	margin: 2px 0;
+	display: inline-block;
+	list-style-type: none;
+}

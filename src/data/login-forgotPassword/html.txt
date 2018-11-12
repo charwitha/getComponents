@@ -1,0 +1,10 @@
+<div class="login-forgotPassword">
+	<form class="form-wrapper">
+		<input type="email" class="inputs" placeholder="Username">
+		<input type="submit" class="btn">
+		<p class="separator"></p>
+		<div class="form-footer align-center ">
+			<p>already registered? <a href="#" class="footer-link"> sign in</a></p>
+		</div>
+	</form>
+</div>

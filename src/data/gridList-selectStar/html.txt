@@ -1,0 +1,44 @@
+<div class="gridList-selectStar col-lg-8 col-md-12 col-sm-12" data-js-file="data/gridList-selectStar/js.js">
+	<form>
+		<input type="checkbox" id="select1">
+		<label for="select1" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/beach.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select2">
+		<label for="select2" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/balloons.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select3">
+		<label for="select3" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/wheel.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select4">
+		<label for="select4" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/trees.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select5">
+		<label for="select5" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/night.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select6">
+		<label for="select6" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/leaf.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select7">
+		<label for="select7" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/fishes.jpg" alt="hd-image">
+		</label>
+		<input type="checkbox" id="select8">
+		<label for="select8" class="select-box">
+			<i class="fa fa-star-o"></i>
+			<img src="images/eTower.jpg" alt="hd-image">
+		</label>
+	</form>
+</div>
